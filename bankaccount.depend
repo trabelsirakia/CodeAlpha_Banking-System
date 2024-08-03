@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1722593599 source:c:\users\hp\desktop\bankaccount\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+
